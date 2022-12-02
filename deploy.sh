@@ -7,6 +7,6 @@ sudo docker run golang
 sudo docker ps -a
 
 # Install Container Structure Test
-curl -LO https://storage.googleapis.com/container-structure-test/v1.13.0/container-structure-test-linux-amd64 
+curl -LO https://storage.googleapis.com/container-structure-test/v1.12.0/container-structure-test-linux-amd64 
 chmod +x container-structure-test-linux-amd64 
 sudo mv container-structure-test-linux-amd64 /usr/local/bin/container-structure-test
